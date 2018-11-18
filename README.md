@@ -15,4 +15,4 @@ The challenging part of this program was to maintain the linkedlist in a special
     4) Strikers
   * If there are more than one player of the same positon, then they are kept in the order of thier insertion. 
   
- The commanline UI and menu will guide the user to make proper use of the program with error messages for invalid inputs.
+ The command-line interface and the user menu will guide the user to make proper use of the program with error messages for invalid inputs.
